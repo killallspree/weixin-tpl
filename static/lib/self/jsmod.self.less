@@ -1,0 +1,225 @@
+/**
+ * 5a Project jsmod 基础样式扩展
+ */
+
+/**
+ * 下拉
+ */
+.mod-dropdown {
+  background: #fff;
+  border: 1px solid #efefef;
+
+  .mod-dropdown-item {
+    border-bottom: 1px solid #efefef;
+    cursor: pointer;
+    padding: 10px 15px;
+
+    &:hover {
+      background: #f7f7f7;
+    }
+
+    a {
+      color: #333;
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &.mod-dropdown-item-active {
+      a {
+        color: #fa0;
+      }       
+    }
+  }
+}
+
+/**
+ * 分页
+ */ 
+.mod-page {
+  overflow: hidden;
+  text-align: center;
+
+  .mod-page-item {
+    display: inline-block;
+    transition-property: background-color;
+    transition-duration: .5s;
+    margin-right: 5px;
+    border: 1px solid #ddd;
+    //padding: 10px 15px;
+    background: #fff;
+    color: #333333;
+    text-decoration: none;
+  }
+
+  .mod-page-more {
+    display: inline-block;
+    padding: 10px 15px;  
+  }
+
+  .mod-page-item.mod-page-item-active {  
+    color: #fff;
+    border: none;
+    background-color: #3C99CD;
+  }
+
+  .mod-page-item-disabled {
+    color: #dddddd;
+    background-color: #fff;
+  }
+}
+
+/**
+ * 自定义弹窗样式
+ */
+.mod-dialog-crm {
+  position: relative;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid #dddddd;
+  padding: 0 20px 0 20px;
+
+  .mod-dialog-status {
+    display: none;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 0;
+
+    i {
+        margin-right: 5px;
+    }
+
+    .loading {
+        color: #337ab7;
+    }
+
+    .success {
+        color: #3c763d;
+    }
+
+    .error {
+        color: #a94442;
+    }
+  }
+
+  .mod-dialog-close {
+    display: none;
+    padding: 10px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .2;
+
+    &:hover,
+    &:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+        opacity: .5;
+    }
+
+    &:after {
+        content: "x";
+        display: block;
+    }
+  }
+
+  .mod-dialog-title {
+    line-height: 58px;
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .mod-dialog-content {
+    padding: 20px 0;
+    color: #666;
+  }
+
+  .mod-dialog-footer {
+    border-top: 1px solid #dddddd;
+    font-size: 14px;
+    padding: 20px 0;
+    text-align: center;
+
+    .mod-button {
+      display: inline-block;
+      line-height: 24px;
+      border-radius: 5px;
+      padding: 5px 30px;
+      border: 1px solid transparent;
+      text-decoration: none;
+      min-width: 100px;
+    }
+
+    .mod-button-no {
+      background-color: #fff;
+      border-color: #1E89E2;
+      color: #1E89E2;
+      margin-right: 30px;
+    }
+
+    .mod-button-ok {
+      background-color: #1E89E2;
+      border-color: #1E89E2;
+      color: #fff;
+    }
+    .mod-button-ok:hover{
+      background-color: #1E89E2;
+      border-color: #1E89E2;
+    }
+  }
+}
+
+
+/**
+ * toast 样式
+ */
+.-crm-ui-totast-container {
+    position: fixed;
+    visibility: hidden;
+    z-index: 9999;
+    min-width: 150px;
+    text-align: center;
+}
+
+.-crm-ui-notify-container {
+    position: relative;
+    border: 1px solid #faebcc;
+    padding: 20px;
+    width: 300px;
+
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+
+    line-height: 20px;
+    border-radius: 4px;
+
+    .-crm-ui-notify-close {
+        position: absolute;
+        padding: 5px;
+        right: 0px;
+        top: 0px;
+    }
+}
+
+/**
+ * xinput 样式
+ */
+.-crm-ui-xinput-container {
+    border: 1px solid #e1e1e8;
+    color: #3c763d;
+    background-color: #f7f7f9;
+    padding: 0 10px;
+
+    line-height: 48px;
+    font-size: 18px;
+    border-radius: 0 0 4px 4px;
+    font-weight: bold;
+}

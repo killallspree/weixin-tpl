@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88931487-283c-45f6-839a-675ccf0b9be3" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fis-conf/deploy-config.js" afterPath="$PROJECT_DIR$/fis-conf/deploy-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fis-conf.js" afterPath="$PROJECT_DIR$/fis-conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="5a-user-tpl.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="5a-user-tpl" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/widget/zone_switch/zone_switch.js" />
+        <option value="$PROJECT_DIR$/widget/project/create_album/create_album.js" />
+        <option value="$PROJECT_DIR$/widget/project/create_essay/create_essay.js" />
+        <option value="$PROJECT_DIR$/static/lib/third/jsmod.extend.js" />
+        <option value="$PROJECT_DIR$/page/project/layout.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/recharge/recharge.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/recharge/recharge.css" />
+        <option value="$PROJECT_DIR$/widget/project/withdrawals/withdrawals.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/bind_bank_card/bind_bank_card.css" />
+        <option value="$PROJECT_DIR$/widget/project/bind_bank_card/bind_bank_card.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/modify_transaction/modify_transaction.js" />
+        <option value="$PROJECT_DIR$/widget/project/modify_login_password/modify_login_password.js" />
+        <option value="$PROJECT_DIR$/widget/project/enterprise_identification/enterprise_identification.css" />
+        <option value="$PROJECT_DIR$/widget/project/enterprise_identification/enterprise_identification.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/enterprise_identification/enterprise_identification.js" />
+        <option value="$PROJECT_DIR$/page/project/enterprise_identification/enterprise_identification.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/personal_identification_exhibition/personal_identification_exhibition.js" />
+        <option value="$PROJECT_DIR$/widget/project/enterprise_exhibition/enterprise_exhibition.js" />
+        <option value="$PROJECT_DIR$/widget/project/set_transaction_password/set_transaction_password.js" />
+        <option value="$PROJECT_DIR$/widget/project/forget_transaction_password/forget_transaction_password.js" />
+        <option value="$PROJECT_DIR$/widget/project/forget_transaction_password/forget_transaction_password.css" />
+        <option value="$PROJECT_DIR$/widget/project/personal_identification/personal_identification.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/personal_identification/personal_identification.js" />
+        <option value="$PROJECT_DIR$/widget/project/personal_identification/personal_identification.css" />
+        <option value="$PROJECT_DIR$/page/project/personal_identification/personal_identification.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/personal_info_edit/personal_info_edit.css" />
+        <option value="$PROJECT_DIR$/widget/project/personal_info_edit/personal_info_edit.js" />
+        <option value="$PROJECT_DIR$/widget/project/withdrawals/withdrawals.js" />
+        <option value="$PROJECT_DIR$/widget/project/account/account.js" />
+        <option value="$PROJECT_DIR$/widget/project/login/login.js" />
+        <option value="$PROJECT_DIR$/widget/project/register/register.js" />
+        <option value="$PROJECT_DIR$/widget/project/forget_password_one/forget_password_one.js" />
+        <option value="$PROJECT_DIR$/widget/project/forget_password_two/forget_password_two.js" />
+        <option value="$PROJECT_DIR$/widget/project/bind_bank_card/bind_bank_card.js" />
+        <option value="$PROJECT_DIR$/widget/project/recharge/recharge.js" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.js" />
+        <option value="$PROJECT_DIR$/widget/project/account/account.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/basic_data/basic_data.css" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.css" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/basic_data/basic_data.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/work_data/work_data.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/work_data/work_data.css" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/education_data/education_data.css" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/other_data/other_data.css" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/education_data/education_data.tpl" />
+        <option value="$PROJECT_DIR$/widget/project/user_zone/zone_resume/other_data/other_data.tpl" />
+        <option value="$PROJECT_DIR$/fis-conf.js" />
+        <option value="$PROJECT_DIR$/widget/header/header.tpl" />
+        <option value="$PROJECT_DIR$/fis-conf/deploy-config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5a-user-tpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5a-user-tpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="USER_OCTOBER" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="112" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="112" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="935" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="110" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="139" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="932" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="SearchEverywhereHistoryKey" value="m&#9;FILE&#9;file://C:/webstorm/USER_OCTOBER/.idea/misc.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\webstorm\USER_OCTOBER" />
+      <recent name="C:\webstorm\USER_OCTOBER\fis-conf" />
+      <recent name="C:\webstorm\USER_OCTOBER\static\images\user" />
+      <recent name="C:\webstorm\USER_OCTOBER\static\images\assets" />
+      <recent name="C:\webstorm\USER_OCTOBER\static\lib\self" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\webstorm\NEW_USER\5a-user-tpl\static\plugins" />
+      <recent name="C:\webstorm\USER\5a-user-tpl\static\lib\third" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.selected.js">
+    <configuration default="false" name="select.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="select.js" working-dir="$PROJECT_DIR$/static/lib/js">
+      <method />
+    </configuration>
+    <configuration default="false" name="selected.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="selected.js" working-dir="$PROJECT_DIR$/static/lib/js">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.select.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.selected.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.selected.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.select.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88931487-283c-45f6-839a-675ccf0b9be3" name="默认的" comment="" />
+      <created>1473141568412</created>
+      <option name="number" value="Default" />
+      <updated>1473141568412</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit">
+      <created>1473428982035</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1473428982035</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add FE_tpl">
+      <created>1473562458495</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1473562458495</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add FE_tpl">
+      <created>1473573128535</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1473573128535</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fis-confi">
+      <created>1473580120646</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1473580120646</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add FE_tpl">
+      <created>1473581526301</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1473581526301</updated>
+    </task>
+    <task id="LOCAL-00043" summary="withdrawals">
+      <created>1473584274114</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1473584274114</updated>
+    </task>
+    <task id="LOCAL-00044" summary="account">
+      <created>1473586896608</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1473586896608</updated>
+    </task>
+    <task id="LOCAL-00045" summary=".gitignore">
+      <created>1473587510479</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1473587510479</updated>
+    </task>
+    <task id="LOCAL-00046" summary="modify_transaction">
+      <created>1473601966536</created>
+      <option name="number" value="00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1473601966536</updated>
+    </task>
+    <task id="LOCAL-00047" summary="quick_create">
+      <created>1473602035467</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1473602035467</updated>
+    </task>
+    <task id="LOCAL-00048" summary="scrollTo">
+      <created>1473603818157</created>
+      <option name="number" value="00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1473603818157</updated>
+    </task>
+    <task id="LOCAL-00049" summary="withdrawals">
+      <created>1473652907657</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1473652907657</updated>
+    </task>
+    <task id="LOCAL-00050" summary="set_transaction_password">
+      <created>1473658911651</created>
+      <option name="number" value="00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1473658911652</updated>
+    </task>
+    <task id="LOCAL-00051" summary="account_left logo">
+      <created>1473659003766</created>
+      <option name="number" value="00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1473659003766</updated>
+    </task>
+    <task id="LOCAL-00052" summary="user_zone tmpl">
+      <created>1473659062994</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1473659062994</updated>
+    </task>
+    <task id="LOCAL-00053" summary="modify_transaction">
+      <created>1473659101758</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1473659101758</updated>
+    </task>
+    <task id="LOCAL-00054" summary="quick_create">
+      <created>1473659171708</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1473659171708</updated>
+    </task>
+    <task id="LOCAL-00055" summary="workspace">
+      <created>1475224018820</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1475224018821</updated>
+    </task>
+    <task id="LOCAL-00056" summary="account">
+      <created>1475225886052</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1475225886052</updated>
+    </task>
+    <task id="LOCAL-00057" summary="footer">
+      <created>1475908898906</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1475908898906</updated>
+    </task>
+    <task id="LOCAL-00058" summary="forget_password">
+      <created>1475909596317</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1475909596317</updated>
+    </task>
+    <task id="LOCAL-00059" summary="login 删除cookie记住密码功能">
+      <created>1475914496400</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1475914496400</updated>
+    </task>
+    <task id="LOCAL-00060" summary="forget_password">
+      <created>1475920994664</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1475920994664</updated>
+    </task>
+    <task id="LOCAL-00061" summary="login">
+      <created>1475921043088</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1475921043097</updated>
+    </task>
+    <task id="LOCAL-00062" summary="login">
+      <created>1475921137388</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1475921137388</updated>
+    </task>
+    <task id="LOCAL-00063" summary="login">
+      <created>1475921568729</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1475921568729</updated>
+    </task>
+    <task id="LOCAL-00064" summary="login+register">
+      <created>1475935465246</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1475935465248</updated>
+    </task>
+    <task id="LOCAL-00065" summary="enterprise_identification">
+      <created>1475992707129</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1475992707130</updated>
+    </task>
+    <task id="LOCAL-00066" summary="personal_identification">
+      <created>1475997697962</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1475997697962</updated>
+    </task>
+    <task id="LOCAL-00067" summary="transaction_record+libpage">
+      <created>1476005218365</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1476005218365</updated>
+    </task>
+    <task id="LOCAL-00068" summary="bind_bank_card">
+      <created>1476011662819</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1476011662819</updated>
+    </task>
+    <task id="LOCAL-00069" summary="bind_bank_card">
+      <created>1476014923459</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1476014923459</updated>
+    </task>
+    <task id="LOCAL-00070" summary="withdrawals">
+      <created>1476021277434</created>
+      <option name="number" value="00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1476021277435</updated>
+    </task>
+    <task id="LOCAL-00071" summary="recharge">
+      <created>1476022298136</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1476022298136</updated>
+    </task>
+    <task id="LOCAL-00072" summary="recharge">
+      <created>1476022441946</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1476022441946</updated>
+    </task>
+    <task id="LOCAL-00073" summary="position_selector">
+      <created>1476107617676</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1476107617678</updated>
+    </task>
+    <task id="LOCAL-00074" summary="position_selector">
+      <created>1476112069914</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1476112069914</updated>
+    </task>
+    <task id="LOCAL-00075" summary="enterpriseIdentification/personIdentification">
+      <created>1476415764296</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1476415764298</updated>
+    </task>
+    <task id="LOCAL-00076" summary="modify_login_password/modify_transaction/withdrawals">
+      <created>1476429489429</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1476429489429</updated>
+    </task>
+    <task id="LOCAL-00077" summary="resumeOther">
+      <created>1476452318812</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1476452318812</updated>
+    </task>
+    <task id="LOCAL-00078" summary="util.stretchImg">
+      <created>1476683907633</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1476683907634</updated>
+    </task>
+    <task id="LOCAL-00079" summary="resumeBasic">
+      <created>1476689157971</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1476689157971</updated>
+    </task>
+    <task id="LOCAL-00080" summary="confirmDialog">
+      <created>1476701511668</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1476701511668</updated>
+    </task>
+    <task id="LOCAL-00081" summary=" jsmod.ui.xinput/ jsmod.ui.confirm 输入框高亮/统一弹框">
+      <created>1476714479760</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1476714479761</updated>
+    </task>
+    <task id="LOCAL-00082" summary=" jsmod.ui.xinput/ jsmod.ui.confirm 输入框高亮/统一弹框+手持照片展示">
+      <created>1476799181613</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1476799181614</updated>
+    </task>
+    <task id="LOCAL-00083" summary=" jsmod.ui.xinput/ jsmod.ui.confirm 输入框高亮/统一弹框">
+      <created>1476855476749</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1476855476750</updated>
+    </task>
+    <task id="LOCAL-00084" summary="account">
+      <created>1476856136022</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1476856136023</updated>
+    </task>
+    <task id="LOCAL-00085" summary="配置（个人中心与账户中心）跳转路径 / 增加fis3-deploy-replace插件">
+      <created>1476872405489</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1476872405490</updated>
+    </task>
+    <task id="LOCAL-00086" summary="font-awesome箭头替换">
+      <created>1476872500819</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1476872500819</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20180723" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44535074" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3360522" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="层次结构" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quick_create" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="footer" />
+    <MESSAGE value="login 删除cookie记住密码功能" />
+    <MESSAGE value="forget_password" />
+    <MESSAGE value="login" />
+    <MESSAGE value="login+register" />
+    <MESSAGE value="enterprise_identification" />
+    <MESSAGE value="personal_identification" />
+    <MESSAGE value="transaction_record+libpage" />
+    <MESSAGE value="bind_bank_card" />
+    <MESSAGE value="withdrawals" />
+    <MESSAGE value="recharge" />
+    <MESSAGE value="position_selector" />
+    <MESSAGE value="enterpriseIdentification/personIdentification" />
+    <MESSAGE value="modify_login_password/modify_transaction/withdrawals" />
+    <MESSAGE value="resumeOther" />
+    <MESSAGE value="util.stretchImg" />
+    <MESSAGE value="resumeBasic" />
+    <MESSAGE value="confirmDialog" />
+    <MESSAGE value=" jsmod.ui.xinput/ jsmod.ui.confirm 输入框高亮/统一弹框+手持照片展示" />
+    <MESSAGE value=" jsmod.ui.xinput/ jsmod.ui.confirm 输入框高亮/统一弹框" />
+    <MESSAGE value="account" />
+    <MESSAGE value="配置（个人中心与账户中心）跳转路径 / 增加fis3-deploy-replace插件" />
+    <MESSAGE value="font-awesome箭头替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="font-awesome箭头替换" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/widget/project/forget_transaction_password/forget_transaction_password.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5207207">
+          <caret line="255" column="40" selection-start-line="255" selection-start-column="30" selection-end-line="255" selection-end-column="40" />
+          <folding>
+            <element signature="e#5349#7077#0" expanded="false" />
+            <element signature="e#7620#8313#0" expanded="false" />
+            <element signature="e#8685#9442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_identification/personal_identification.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.457143">
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/user/ID_negtive.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/user/ID_positive.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_identification/personal_identification.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06666667">
+          <caret line="304" column="15" selection-start-line="304" selection-start-column="15" selection-end-line="304" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_identification/personal_identification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73333335">
+          <caret line="128" column="27" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
+          <folding>
+            <element signature="e#658#3103#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/project/personal_identification/personal_identification.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25454545">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/project/authentication_recent_work/authentication_recent_work.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47272727">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/authentication_base_data/authentication_base_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5272727">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/authentication_base_data/authentication_base_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/withdrawals/withdrawals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06306306">
+          <caret line="352" column="19" selection-start-line="352" selection-start-column="19" selection-end-line="352" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_info_edit/personal_info_edit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_info_edit/personal_info_edit.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.23636363">
+          <caret line="133" column="28" selection-start-line="133" selection-start-column="28" selection-end-line="133" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/withdrawals/withdrawals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28648648">
+          <caret line="363" column="42" selection-start-line="363" selection-start-column="42" selection-end-line="363" selection-end-column="42" />
+          <folding>
+            <element signature="e#5731#5793#0" expanded="false" />
+            <element signature="e#5797#5809#0" expanded="false" />
+            <element signature="e#6045#7285#0" expanded="false" />
+            <element signature="e#6158#7277#0" expanded="false" />
+            <element signature="e#6299#7267#0" expanded="false" />
+            <element signature="e#6363#7253#0" expanded="false" />
+            <element signature="e#6749#7229#0" expanded="false" />
+            <element signature="e#6789#7103#0" expanded="false" />
+            <element signature="e#7316#7481#0" expanded="false" />
+            <element signature="e#7505#7765#0" expanded="false" />
+            <element signature="e#7536#7553#0" expanded="false" />
+            <element signature="e#7591#7646#0" expanded="false" />
+            <element signature="e#7685#7733#0" expanded="false" />
+            <element signature="e#7744#7759#0" expanded="false" />
+            <element signature="e#7800#8495#0" expanded="false" />
+            <element signature="e#7980#8325#0" expanded="false" />
+            <element signature="e#8011#8085#0" expanded="false" />
+            <element signature="e#8089#8167#0" expanded="false" />
+            <element signature="e#8329#8489#0" expanded="false" />
+            <element signature="e#8529#8810#0" expanded="false" />
+            <element signature="e#8560#8578#0" expanded="false" />
+            <element signature="e#8621#8676#0" expanded="false" />
+            <element signature="e#8720#8778#0" expanded="false" />
+            <element signature="e#8788#8804#0" expanded="false" />
+            <element signature="e#8855#9631#0" expanded="false" />
+            <element signature="e#9065#9448#0" expanded="false" />
+            <element signature="e#9096#9173#0" expanded="false" />
+            <element signature="e#9177#9257#0" expanded="false" />
+            <element signature="e#9452#9625#0" expanded="false" />
+            <element signature="e#9657#9955#0" expanded="false" />
+            <element signature="e#9688#9709#0" expanded="false" />
+            <element signature="e#9761#9816#0" expanded="false" />
+            <element signature="e#9869#9919#0" expanded="false" />
+            <element signature="e#9930#9949#0" expanded="false" />
+            <element signature="e#9992#10796#0" expanded="false" />
+            <element signature="e#10236#10608#0" expanded="false" />
+            <element signature="e#10276#10351#0" expanded="false" />
+            <element signature="e#10355#10432#0" expanded="false" />
+            <element signature="e#10612#10790#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/personal_info_edit/personal_info_edit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2786325">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/account/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22260274">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66780823">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/register/register.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6615384">
+          <caret line="72" column="58" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/recharge/recharge.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/login/login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.657143">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/login/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.510274">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="e#1521#1673#0" expanded="false" />
+            <marker date="1476844080541" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/recharge/recharge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33212996">
+          <caret line="96" column="24" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/forget_password_one/forget_password_one.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.568306">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/recharge/recharge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5856164">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <marker date="1476848806397" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848806397" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848806397" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/register/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="46" />
+          <folding>
+            <element signature="e#2538#2789#0" expanded="false" />
+            <element signature="e#2841#3092#0" expanded="false" />
+            <element signature="e#3203#3248#0" expanded="false" />
+            <marker date="1476845242207" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/register/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5198556">
+          <caret line="205" column="25" selection-start-line="205" selection-start-column="25" selection-end-line="205" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/forget_password_one/forget_password_one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7978339">
+          <caret line="155" column="6" selection-start-line="142" selection-start-column="4" selection-end-line="155" selection-end-column="6" />
+          <folding>
+            <marker date="1476847264746" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/forget_password_two/forget_password_two.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09386282">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
+          <folding>
+            <marker date="1476848159313" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/bind_bank_card/bind_bank_card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6232877">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#1216#1643#0" expanded="false" />
+            <element signature="e#1647#1763#0" expanded="false" />
+            <element signature="e#16923#17764#0" expanded="false" />
+            <marker date="1476848618727" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848618727" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848618727" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848618727" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476848618727" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/bind_bank_card/bind_bank_card.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4499089">
+          <caret line="94" column="78" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/forget_password_two/forget_password_two.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4262295">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33212996">
+          <caret line="95" column="33" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="33" />
+          <folding>
+            <element signature="e#11584#12107#0" expanded="false" />
+            <marker date="1476849851165" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/basic_data/basic_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84837544">
+          <caret line="405" column="10" selection-start-line="393" selection-start-column="8" selection-end-line="405" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/account/account.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.568306">
+          <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/third/font-awesome/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33212996">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/basic_data/basic_data.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7333333">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6615385">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/work_data/work_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.061539">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/education_data/education_data.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5306859">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/other_data/other_data.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62454873">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/account/tmpls/upload_avatar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/header/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4390244">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fis-conf/deploy-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22183098">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fis-conf/smarty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23239437">
+          <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4390244">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fis-conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35686275">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/other_data/other_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09756097">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/education_data/education_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34146342">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/basic_data/basic_data.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58536583">
+          <caret line="54" column="58" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/work_data/work_data.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82156134">
+          <caret line="131" column="1" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/project/user_zone/zone_resume/detail_data/detail_data.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19702603">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

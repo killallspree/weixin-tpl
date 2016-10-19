@@ -1,0 +1,86 @@
+.account{
+    margin: 60px auto;
+    width: 1200px;
+}
+.account-left{
+    float: left;
+    width: 240px;
+    background: #FFFFFF;
+}
+.account-title{
+
+}
+.account-list{
+
+}
+.account-avatar{
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+.avatar{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    vertical-align: middle;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.icon_setup{
+    background-image: url("/static/images/assets/icon_setup.png");
+}
+.icon_money{
+    background-image: url("/static/images/assets/icon_money.png");
+}
+.icon_myzone{
+    background-image: url("/static/images/assets/icon_myzone.png");
+}
+
+.account-avatar span{
+    display: inline-block;
+    font-size: 20px;
+    color: #666666;
+    vertical-align: middle;
+}
+/*.account-avatar{
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+.account-avatar .avatar{
+    float: left;
+    margin: 28px 10px 28px 63px;
+    width: 24px;
+    height: 24px;
+}
+.account-avatar .avatar img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.account-avatar span{
+    float: left;
+    font-size: 20px;
+    color: #666666;
+}*/
+.set{
+
+}
+.set-list,.finance-list{
+    width: 220px;
+    border-left: 10px solid #FFFFFF;
+    border-right: 10px solid #FFFFFF;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    font-size: 16px;
+    color: #333333;
+}
+.selected{
+    border-left: 10px solid #1E89E2;
+}
+.list-line{
+    border-bottom: 1px solid #eaeaea;
+}
+/* end account-left */

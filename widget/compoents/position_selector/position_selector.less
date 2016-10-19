@@ -1,0 +1,115 @@
+@import "/static/lib/third/mixin.less";
+
+.fivea-position-selector-wrap {
+  width: 840px;
+  height: 590px;
+  padding: 20px;
+  position: relative;
+  font-size: 16px;
+
+  .fivea-position-selector-inner {
+    background: #fff;
+    height: 550px;
+
+    .position-nav-title {
+      font-size: 24px;
+      padding: 20px 0;
+      text-align: center;
+      background: #E9F3FE;
+    }
+
+    .position-action-cancel {
+      position: absolute;
+      right: -10px;
+      top: -10px;
+      padding: 10px;
+
+      i {
+        background: #fff;
+        color: #999;
+        font-size: 58px;
+        width: 58px;
+        text-align: center;
+        border-radius: 100px;
+      }
+    }
+
+    .position-list-wrap {
+      padding: 30px 20px 0 20px;
+      overflow: hidden;
+      height: 320px;
+      overflow: auto;
+
+      &.loading {
+        background: url('/static/images/loading_circle.gif') no-repeat center 50px;
+
+        .position-item {
+          display: none;
+        }
+      }
+
+      .position-item {
+        float: left;
+        width: 180px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 10px;
+        display: inline-block;
+        overflow: hidden;
+
+        &.position-item-active {
+          background: @blueColor;
+          color: #fff;
+        }
+      }
+    }
+
+    .position-nav-wrap {
+      background: #E9F3FE;
+      padding: 40px 20px 0 20px;
+      height: 55px;
+
+      .position-nav-item {
+        width: 160px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 10px;
+        padding-rihgt: 30px;
+        background: @blueColor;
+        color: #fff;
+        height: 30px;
+        display: inline-block;
+        font-size: 14px;
+        overflow: hidden;
+        margin-right: 15px;
+        position: relative;
+
+        &:hover {
+          i {
+            color: #999;
+          }
+        }
+
+        i {
+          position: absolute;
+          top: 4px;
+          right: 5px;
+          color: #efefef;
+          font-size: 20px;
+        }
+      }
+    }
+
+
+    .posistion-action-wrap {
+      margin-top: 30px;
+    }
+
+    .position-action-submit {
+      position: absolute;
+      bottom: 40px;
+      right: 60px;
+      .btn(160px, 40px, 18px, @blueColor, #fff);
+    }
+  }
+}

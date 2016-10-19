@@ -1,0 +1,497 @@
+/* 注册 */
+.regBg {
+  width: 100%;
+  height: 437px;
+  background: url('../images/reg/signin_bg.png') no-repeat;
+  background-position: center top;
+  position: relative;
+}
+.logo5A {
+  margin-left: 21%;
+  padding-top: 50px;
+}
+.regform,
+.logform {
+  top: 120px;
+  left: 50%;
+  box-sizing: border-box;
+  width: 420px;
+  margin-left: -210px;
+  background: #fff;
+  box-shadow: 0 0 12px 0 rgba(177, 177, 177, 0.5);
+  position: absolute;
+}
+.regform {
+  padding: 20px 30px 50px;
+}
+.regTit {
+  border-bottom: 1px solid #eaeaea;
+  line-height: 40px;
+  height: 40px;
+}
+.inb {
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+  height: 40px;
+}
+.regTit a:hover {
+  color: #3c99cd;
+  border-bottom: 2px solid #3c99cd;
+  line-height: 50px;
+  box-sizing: border-box;
+}
+.regTit span {
+  display: block;
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+  float: left;
+}
+.regTit .act {
+  color: #3c99cd;
+  border-bottom: 2px solid #3c99cd;
+  line-height: 50px;
+}
+.regTit .nonact {
+  color: #e5e5e5;
+  line-height: 50px;
+}
+.perReg,
+.comReg {
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+  height: 40px;
+}
+.perReg {
+  color: #3c99cd;
+}
+.comReg {
+  color: #e5e5e5;
+}
+.personReg,
+.companyReg {
+  padding: 20px 30px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.companyReg {
+  display: none;
+}
+.personReg div,
+.companyReg div {
+  margin-bottom: 18px;
+  position: relative;
+}
+.personReg .mb0,
+.companyReg .mb0 {
+  margin-bottom: 0;
+}
+.inptT {
+  font-size: 12px;
+  line-height: 14px;
+  color: #9b9b9b;
+}
+.inptText {
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+  padding: 0 15px;
+  background: #f6f6f6;
+  line-height: 50px;
+  height: 50px;
+}
+.inputFocus {
+  border: 1px solid #3c99cd;
+}
+.inputBlur {
+  border: 1px solid #FF4F4F;
+}
+.tishi,
+.tishi0 {
+  color: red;
+}
+.inptText1,
+.inptText2 {
+  width: 50%;
+  margin-top: 10px;
+  display: inline-block;
+  float: left;
+  line-height: 50px;
+  height: 50px;
+  font-size: 14px;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
+.inptText1 {
+  background: #f6f6f6;
+}
+.inptText2 {
+  text-align: center;
+  color: #fff;
+  background: #3c99cd;
+}
+.iptCode {
+  position: relative;
+}
+.eyeCode {
+  position: absolute;
+  right: 15px;
+  top: 39px;
+  display: block;
+  width: 20px;
+  height: 20px;
+  background: url(../images/reg/icon_eye_nor.png) no-repeat center center;
+}
+.eyeCode2 {
+  background: url(../images/reg/icon_eye_sel.png) no-repeat center center;
+}
+.CodeNum {
+  display: none;
+  position: absolute;
+  left: 15px;
+  top: 25px;
+  width: 80%;
+  background: #f6f6f6;
+  line-height: 48px;
+  height: 48px;
+}
+.agree {
+  font-size: 14px;
+  margin: 30px 0;
+  text-align: center;
+  color: #4a4a4a;
+}
+.agree a {
+  color: #3c99cd;
+}
+.regBtn,
+.logBtn {
+  font-size: 20px;
+  display: block;
+  text-align: center;
+  color: #fff;
+  background: #3c99cd;
+  line-height: 50px;
+  height: 50px;
+}
+.regBtn2,
+.logBtn2 {
+  margin-top: 51px;
+  text-align: center;
+}
+.regBtn2 a,
+.logBtn2 a {
+  font-size: 16px;
+}
+/*登录*/
+.logform {
+  padding: 45px 60px 48px;
+}
+.mt26 {
+  margin: 26px 0 12px;
+}
+.choose {
+  font-size: 14px;
+  margin-bottom: 50px;
+  color: #4a4a4a;
+  line-height: 10px;
+  height: 14px;
+}
+.choose .checkbtn {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+}
+.choose span {
+  line-height: 10px;
+}
+.frgt {
+  display: inline-block;
+  float: right;
+}
+/* 弹框 */
+.shadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: .3;
+  background: #000;
+  filter: alpha(opacity=30);
+  display: none;
+}
+.dialog1,
+.dialog2 {
+  position: absolute;
+  width: 800px;
+  height: 390px;
+  background: #fff;
+  -webkit-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -moz-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -ms-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -o-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  display: none;
+}
+.dialog1 .tit,
+.dialog2 .tit {
+  font-size: 24px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 104px;
+  padding-top: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  color: #f5a623;
+}
+.dialog1 div.diagCon,
+.dialog2 div.diagCon {
+  font-size: 24px;
+  line-height: 30px;
+  margin: 0 50px;
+  padding: 40px 50px 0 50px;
+  border-top: 1px solid #979797;
+  color: #666;
+}
+.dialog1 p,
+.dialog2 p {
+  margin-top: 80px;
+  margin-left: 140px;
+}
+.dialog1 p a,
+.dialog2 p a {
+  width: 180px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  float: left;
+  line-height: 50px;
+  height: 50px;
+}
+.dialog1 p a.btn1,
+.dialog2 p a.btn1 {
+  background: #7dcad3;
+}
+.dialog1 p a.btn2,
+.dialog2 p a.btn2 {
+  margin-left: 160px;
+  background: #1e89e2;
+}
+/* 验证手机号--forget */
+.forgetForm {
+  padding: 40px 60px 48px 60px;
+}
+.forp {
+  position: relative;
+}
+.forp p {
+  position: absolute;
+  left: 100px;
+  top: 22px;
+  width: 100px;
+  border-bottom: 1px solid #eaeaea;
+}
+.forp dl {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-bottom: 60px;
+}
+.forp dl dt {
+  text-align: center;
+}
+.forp dl dd {
+  text-align: center;
+}
+.forgBtn {
+  font-size: 20px;
+  display: block;
+  text-align: center;
+  color: #fff;
+  background: #3c99cd;
+  line-height: 50px;
+  height: 50px;
+  margin-top: 48px;
+}
+/* 重置密码 */
+.dialog3 {
+  position: absolute;
+  display: none;
+  box-sizing: border-box;
+  width: 600px;
+  height: 300px;
+  background: #fff;
+  padding-top: 96px;
+  text-align: center;
+}
+.dialog3 .tit {
+  font-size: 24px;
+  color: #F5A623;
+}
+.dialog3 .diagCon {
+  padding-top: 45px;
+  font-size: 18px;
+  color: #666;
+}
+.dialog3 .diagCon a.udl {
+  text-decoration: underline;
+}
+/* header */
+.m0 {
+  margin: 0 auto;
+}
+.fz16 {
+  font-size: 16px;
+}
+.mr20 {
+  margin-right: 20px;
+}
+/* 通用板块 */
+.bidFiles {
+  padding-top: 25px;
+}
+
+.bFList {
+  /*  overflow: hidden; */
+  display: inline-block;
+  float: left;
+  margin-top: -10px;
+}
+.bFList li {
+  width: 240px;
+  /* overflow: hidden;  */
+  margin-top: 10px;
+  position: relative;
+}
+.bFtype {
+  width: 240px;
+  height: 50px;
+  box-sizing: border-box;
+  padding: 5px 15px 5px 8px;
+  background: #F0F8FF;
+  display: inline-block;
+  float: left;
+}
+.bFtype dt {
+  margin-right: 10px;
+  display: inline-block;
+  float: left;
+}
+.bFtype dd {
+  display: inline-block;
+  float: left;
+}
+.bfLoaddwn {
+  display: inline-block;
+  float: left;
+  width: 50px;
+  text-align: center;
+  line-height: 20px;
+  height: 20px;
+  color: #fff;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 30px;
+  background: #7DCAD3;
+}
+.getbiao {
+  font-size: 18px;
+  width: 120px;
+  color: #fff;
+  line-height: 50px;
+  height: 50px;
+  text-align: center;
+  background: #1E89E2;
+  display: inline-block;
+  float: right;
+  display: block;
+}
+.fileRemv {
+  position: absolute;
+  right: -10px;
+  top: -10px;
+}
+.fileRemv img {
+  width: 20px;
+  height: 20px;
+}
+/*您确定中标吗？ sure BIdding ？ */
+.dialogSureBid {
+  position: absolute;
+  width: 700px;
+  height: 310px;
+  box-sizing: border-box;
+  background: #fff;
+  -webkit-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -moz-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -ms-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  -o-box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  box-shadow: 0 0 12px rgba(177, 177, 177, 0.5);
+  display: none;
+}
+.dialogSureBid .tit {
+  font-size: 24px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 104px;
+  line-height: 104px;
+  text-align: center;
+  letter-spacing: 0;
+  color: #333;
+}
+.dialogSureBid div.diagCon {
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0 40px;
+  box-sizing: border-box;
+  border-top: 1px solid #979797;
+  color: #333;
+}
+.dialogSureBid p {
+  margin-top: 60px;
+  margin-left: 130px;
+}
+.dialogSureBid p a {
+  width: 120px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  float: left;
+  font-size: 16px;
+  line-height: 40px;
+  height: 40px;
+}
+.dialogSureBid p a.btn1 {
+  background: #F5A623;
+}
+.dialogSureBid p a.btn2 {
+  margin-left: 120px;
+  background: #7DCAD3;
+}
+/* 分页 */
+.pagination {
+  margin: 40px auto 64px;
+  padding-left: 300px;
+
+}
+.pagination a {
+  float: left;
+  margin-right: 10px;
+  background: #fff;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  left: 30px;
+  font-size: 14px;
+  color: #333;
+}
+.pagination a.w70 {
+  width: 70px;
+}
+.pagination a.curPg {
+  background: #1E89E2;
+  color: #fff;
+}
