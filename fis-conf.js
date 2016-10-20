@@ -79,46 +79,26 @@ function devDeploy() {
       // })
       .match('*.tpl', {
         deploy: [
-          fis.plugin('replace', {
-            from: RD.userCenterDomain,
-            to: RD.releaseDomain
-          }),
           push(RD, '')
         ]
       })
       .match('static/**', {
         deploy: [
-          fis.plugin('replace', {
-            from: RD.userCenterDomain,
-            to: RD.releaseDomain
-          }),
           push(RD, '/webroot')
         ]
       })
       .match('pkg/**', {
         deploy: [
-          fis.plugin('replace', {
-            from: RD.userCenterDomain,
-            to: RD.releaseDomain
-          }),
           push(RD, '/webroot'),
         ]
       })
       .match('widget/**', {
         deploy: [
-          fis.plugin('replace', {
-            from: RD.userCenterDomain,
-            to: RD.releaseDomain
-          }),
           push(RD, '/webroot')
         ]
       })
       .match('widget/**.tpl', {
         deploy: [
-          fis.plugin('replace', {
-            from: RD.userCenterDomain,
-            to: RD.releaseDomain
-          }),
           push(RD, '')
         ]
       })
